@@ -1,2 +1,2 @@
-# schachbrett
+# Schachbrett
 A simple SVG web application
